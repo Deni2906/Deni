@@ -1,0 +1,2 @@
+# Deni
+Skrypty Lua
